@@ -1,0 +1,6 @@
+{
+  "name": "Controle Financeiro Pessoal",
+  "description": "Aplicativo completo para controle de finanças pessoais, dinheiro emprestado, contas a pagar/receber e gastos com cartões de crédito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
